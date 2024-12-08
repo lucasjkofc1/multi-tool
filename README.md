@@ -1,0 +1,1 @@
+essae e um multi tool basico para abrir alguns programas ex q tem dism++ livespli desligar sair esse todos tem ja instalados no diretorio obs: crie uma pasta e coloque o multitool.bat e a pasta files em uma pasta so 
